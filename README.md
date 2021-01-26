@@ -34,7 +34,7 @@ https://jsonplaceholder.typicode.com/
 
 ตัวอย่างหน้าจอ
 
-![](docs/prototype.png)
+![](docs/example-prototype.png)
 
 ## การประเมิณงานที่ได้รับ
 1. function ครบ ตาม รายละเอียดงานที่ได้รับมอบหมาย
